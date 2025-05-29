@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grávidas em Foco - Educação em Saúde</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Grávidas em Foco</h1>
+        <p>Educação em saúde para gestantes</p>
+    </header>
+
+    <nav>
+        <a href="#inicio">Início</a>
+        <a href="#sobre">Sobre</a>
+        <a href="#pre-natal">Pré-natal</a>
+        <a href="#corpo">Cuidados com seu corpo</a>
+        <a href="#bebe">Cuidados com o bebê</a>
+        <a href="#sugestoes">Sugestões</a>
+        <a href="#contato">Contato</a>
+    </nav>
+
+    <section id="inicio">
+        <h2>Bem-vinda ao Grávidas em Foco!</h2>
+        <p>Aqui você encontrará informações importantes sobre seu pré-natal e os primeiros cuidados com seu corpo e seu bebê.</p>
+    </section>
+
+    <section id="sobre">
+        <h2>Sobre</h2>
+        <p>Este site foi criado para oferecer orientações claras e confiáveis sobre saúde na gravidez. Aqui você encontrará dicas sobre:</p>
+        <ul>
+            <li>Pré-natal</li>
+            <li>Cuidados com seu corpo</li>
+            <li>Cuidados com o bebê</li>
+        </ul>
+    </section>
+
+    <section id="pre-natal">
+        <h2>Pré-natal</h2>
+        <p>O pré-natal é essencial para uma gravidez saudável. Aqui estão algumas orientações:</p>
+        <ul>
+            <li>Visite regularmente seu médico.</li>
+            <li>Faça todos os exames recomendados.</li>
+            <li>Mantenha uma alimentação balanceada.</li>
+        </ul>
+    </section>
+
+    <section id="corpo">
+        <h2>Cuidados com seu corpo</h2>
+        <p>Durante a gravidez, seu corpo passa por muitas mudanças. Cuide-se:</p>
+        <ul>
+            <li>Pratique exercícios leves, como caminhadas.</li>
+            <li>Hidrate-se bem.</li>
+            <li>Descanse sempre que possível.</li>
+        </ul>
+    </section>
+
+    <section id="bebe">
+        <h2>Cuidados com o bebê</h2>
+        <p>Prepare-se para receber seu bebê com segurança:</p>
+        <ul>
+            <li>Tenha o enxoval pronto antes do parto.</li>
+            <li>Aprenda sobre amamentação.</li>
+            <li>Conheça os sinais de alerta em recém-nascidos.</li>
+        </ul>
+    </section>
+
+    <section id="sugestoes">
+        <h2>Sugestões</h2>
+        <p>Tem alguma dúvida ou sugestão? Deixe seu feedback:</p>
+        <a href="LINK_DO_SEU_FORMULARIO" target="_blank">Acesse o formulário aqui</a>
+    </section>
+
+    <section id="contato">
+        <h2>Contato</h2>
+        <p>Entre em contato conosco:</p>
+        <p>Email: <a href="mailto:julio.ctlourenco@aluno.uepa.br">julio.ctlourenco@aluno.uepa.br</a></p>
+    </section>
+
+    <footer>
+        <p>© 2024 Grávidas em Foco. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
