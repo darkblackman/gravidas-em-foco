@@ -1,0 +1,105 @@
+index.html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grávidas em Foco</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header, footer {
+      background-color: #ffb6c1;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+    nav {
+      background-color: #ffd6dc;
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      padding: 0.5rem;
+    }
+    nav a {
+      color: #333;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #d6336c;
+    }
+    .form-link {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.5rem 1rem;
+      background-color: #d6336c;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Grávidas em Foco</h1>
+    <p>Informação, cuidado e acolhimento desde o início da gestação</p>
+  </header>
+
+  <nav>
+    <a href="#inicio">Início</a>
+    <a href="#sobre">Sobre</a>
+    <a href="#conteudo">Conteúdo</a>
+    <a href="#sugestoes">Sugestões</a>
+    <a href="#contato">Contato</a>
+  </nav>
+
+  <section id="inicio">
+    <h2>Início</h2>
+    <p>Bem-vinda ao "Grávidas em Foco", um espaço dedicado a orientar, apoiar e informar mulheres durante a gestação e os primeiros momentos com o bebê.</p>
+  </section>
+
+  <section id="sobre">
+    <h2>Sobre</h2>
+    <p>Aqui você encontrará informações acerca do seu pré-natal e os primeiros cuidados com seu corpo e o seu bebê. Nosso objetivo é oferecer conhecimento confiável e acessível para garantir uma gestação mais segura e tranquila.</p>
+  </section>
+
+  <section id="conteudo">
+    <h2>Conteúdo</h2>
+    <h3>1. Pré-natal</h3>
+    <p>Entenda a importância do acompanhamento médico, exames de rotina, alimentação saudável, sinais de alerta e como se preparar para cada trimestre.</p>
+
+    <h3>2. Primeiros cuidados com seu corpo</h3>
+    <p>Descubra como lidar com as mudanças físicas e emocionais, fortalecer o vínculo com o bebê e manter sua saúde e autoestima durante a gravidez.</p>
+
+    <h3>3. Primeiros cuidados com o bebê</h3>
+    <p>Aprenda sobre amamentação, higiene, sono do bebê, sinais de alerta e como garantir um ambiente seguro e acolhedor para o recém-nascido.</p>
+  </section>
+
+  <section id="sugestoes">
+    <h2>Caixa de Sugestões</h2>
+    <p>Queremos saber sua opinião! Envie sugestões, dúvidas ou comentários através do formulário abaixo:</p>
+    <a class="form-link" href="https://forms.gle/seu_formulario_aqui" target="_blank">Abrir Formulário</a>
+  </section>
+
+  <section id="contato">
+    <h2>Contato</h2>
+    <p>Você pode entrar em contato pelo e-mail: <a href="mailto:julio.ctlourenco@aluno.uepa.br">julio.ctlourenco@aluno.uepa.br</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Grávidas em Foco. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
